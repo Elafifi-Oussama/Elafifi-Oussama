@@ -45,7 +45,7 @@ Main analysis:
 
 ## Selected publication
 
-Oussama Elafifi, Maria Johanna Lehti.
+Oussama Elafifi, Noureddine Tchouar, Karim Ouadah, Mohammed Arab Ait Tayeb.
 **Thermodynamics, structural and transport properties of liquid para-Hydrogen: The Feynman–Hibbs molecular dynamics approach.**
 *International Journal of Modern Physics B*, 2023.
 
